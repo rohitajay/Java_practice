@@ -15,18 +15,18 @@ Do implementation of the above application with below two methods : I. Use an Ar
 
 
 
-Create an ArrayList which will be able to store only Strings. Create a printAll method which will print all the elements using an Iterator.
+3. Create an ArrayList which will be able to store only Strings. Create a printAll method which will print all the elements using an Iterator.
 
-Create an ArrayList which will be able to store only numbers like int,float,double,etc, but not any other data type.
+4. Create an ArrayList which will be able to store only numbers like int,float,double,etc, but not any other data type.
 
-Create an ArrayList of Employee( id,name,address,sal) objects and search for particular Employee object based on id number.
+5. Create an ArrayList of Employee( id,name,address,sal) objects and search for particular Employee object based on id number.
 
-Implement the assignment 1 using Linked List
+6. Implement the assignment 1 using Linked List
 
 
 
-Implement the assignment 1 using Vector
+7. Implement the assignment 1 using Vector
 
-Write a program that will have a Vector which is capable of storing emp objects. Use an Iterator and enumeration to list all the elements of the Vector.
+8. Write a program that will have a Vector which is capable of storing emp objects. Use an Iterator and enumeration to list all the elements of the Vector.
 
 
