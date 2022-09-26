@@ -9,7 +9,7 @@ six-year-old
 The word isograms, however, is not an isogram, because the s repeats.
 */
 
-package Assign2;
+package Assignment2;
 
 import java.util.Arrays;
 import java.util.HashSet;
